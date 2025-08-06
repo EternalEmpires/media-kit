@@ -23,7 +23,17 @@
    * it is used to attack, insult, or disparage other individuals, companies, or products.
 
 ## §5 Logo and Brand Use
-1. When using the Eternal Empires logo, at least 51% of the visible logo area must remain unchanged.
+1. When using the Eternal Empires logo, at least 51% of the visible logo area must remain unchanged. 
+   * "Visible logo area" refers to the total number of pixels of the logo as it appears in the final work, or the majority of the logo's recognizable elements (such as the main symbol and text).
+   * Modifications are acceptable if the logo remains clearly identifiable and the majority of its key features are unaltered.
+   * Examples of acceptable modifications:
+       - Adding a subtle drop shadow or outline.
+       - Placing the logo on a different background.
+       - Resizing the logo proportionally.
+   * Examples of unacceptable modifications:
+       - Removing or obscuring major elements (e.g., the main symbol or text).
+       - Distorting, flipping, or heavily recoloring the logo so it is no longer recognizable.
+       - Overlaying other graphics that cover more than 49% of the logo.
 2. Combining the logo with other brand logos is only permitted if it reflects reality (e.g., “Used by”, “Sponsored by” – only when Eternal Empires is truly involved).
 3. The logo may be used for profile pictures, banners, and social media, provided there is no risk of confusion with official Eternal Empires channels.
 
