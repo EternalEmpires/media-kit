@@ -29,7 +29,7 @@
 
 ## §6 Editing and Adaptation of Content
 1. Texts from the Media Kit may only be used in full or as quotations; they may not be changed, shortened, or taken out of context.
-2. Audio content from the Media Kit must remain clearly audible in the top audio track and may not be overlaid. Background music is permitted.
+2. Audio content from the Media Kit must remain clearly audible as the primary audio track and may not be overlaid or diminished by other sounds. Background music is permitted.
 3. Graphics, artworks, and images may be edited or used in collages, as long as a clear reference to Eternal Empires remains.
 4. Distribution or collection of Media Kit Content as a standalone archive, asset pack, or download package is not permitted.
 
