@@ -11,7 +11,7 @@
 
 ## §3 Commercial Use & Merchandising
 1. Commercial use of the Media Kit Content is permitted, unless §3 (2) applies.
-2. For use of Media Kit Content on physical products intended for direct sale (e.g., merchandise, clothing, stickers, etc.), written permission from Eternal Empires is required.
+2. For use of Media Kit Content on physical products intended for direct sale (e.g., merchandise, clothing, stickers, etc.), written permission from Eternal Empires is required. To request written permission, please contact the Eternal Empires team at [support@eternalempires.net](mailto:support@eternalempires.net).
 
 ## §4 Permitted & Prohibited Content
 1. Use of the Media Kit Content is prohibited if:
